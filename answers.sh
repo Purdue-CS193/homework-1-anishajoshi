@@ -22,7 +22,7 @@ mkdir Programs/C++
 mv Programs/Age.cpp Programs/C++/Age.cpp
 
 # Task 7
-cp Programs/Java Homework/CS180/Project_1
+cp -R Programs/Java Homework/CS180/Project_1
 
 # Task 8
 mv Programs/*.c Programs/C
@@ -34,7 +34,7 @@ mv Programs/*.py Programs/"Python 3"
 touch Homework/POL141/Essay.txt
 
 # Task 11
-ls..
+ls ..
 
 # Task 12
 : '
